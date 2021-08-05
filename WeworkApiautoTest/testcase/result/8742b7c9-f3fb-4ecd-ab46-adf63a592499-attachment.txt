@@ -1,0 +1,4 @@
+{'errcode': 0, 'errmsg': 'ok', 'taglist': [{'tagid': 12, 'tagname': 'UI'}]}
+['UI']
+{'errcode': 0, 'errmsg': 'ok', 'taglist': [{'tagid': 12, 'tagname': 'UI design'}]}
+{'errcode': 0, 'errmsg': 'ok', 'taglist': []}

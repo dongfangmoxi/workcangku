@@ -1,0 +1,44 @@
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'method': 'get', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/gettoken', 'params': {'corpid': 'ww876064acebf0fa3c', 'corpsecret': 'A7LgEhs_Ty_dYXO9BcgY04PJBdawQ6JPzxNQJpv9YxY'}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=ww876064acebf0fa3c&corpsecret=A7LgEhs_Ty_dYXO9BcgY04PJBdawQ6JPzxNQJpv9YxY HTTP/1.1" 200 277
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'errcode': 0, 'errmsg': 'ok', 'access_token': '8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA', 'expires_in': 7200}
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'method': 'post', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/tag/create?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA', 'json': {'tagname': 'UI', 'tagid': 12}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/tag/create?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA HTTP/1.1" 200 43
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'errcode': 0, 'errmsg': 'created', 'tagid': 12}
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'method': 'get', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/tag/list?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA'}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/tag/list?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA HTTP/1.1" 200 67
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'errcode': 0, 'errmsg': 'ok', 'taglist': [{'tagid': 12, 'tagname': 'UI'}]}
+[32mINFO    [0m root:base_api.py:20 ['UI']
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'method': 'post', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/tag/update?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA', 'json': {'tagid': 12, 'tagname': 'UI design'}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/tag/update?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA HTTP/1.1" 200 32
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'errcode': 0, 'errmsg': 'updated'}
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'method': 'get', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/tag/list?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA'}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/tag/list?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA HTTP/1.1" 200 74
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'errcode': 0, 'errmsg': 'ok', 'taglist': [{'tagid': 12, 'tagname': 'UI design'}]}
+[32mINFO    [0m root:base_api.py:20 ['UI design']
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'method': 'get', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/tag/delete?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA&tagid=12'}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/tag/delete?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA&tagid=12 HTTP/1.1" 200 32
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'errcode': 0, 'errmsg': 'deleted'}
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'method': 'get', 'url': 'https://qyapi.weixin.qq.com/cgi-bin/tag/list?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA'}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:452 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/tag/list?access_token=8EpqYvVAyl6RBUYZbInHknaSPyXSdBbIr7B1VEaSsaFZM4LRu1unMOh162qhkw9bF0rddVNNlGBriJ2MGZbuXwj49fkVZmL6o9K8ZCgPdTPy1Q5eSh28WfpA1a6QnL90oL7FSyR_zD28YLnH-_0sIjsMt7NsB14Hwzgd5AjZO1s9i-ROaeqCiTbCStHgrzbXxnGmvAKi21Tk9ICFucQRzA HTTP/1.1" 200 40
+[32mINFO    [0m root:base_api.py:20 -----request data-----
+[32mINFO    [0m root:base_api.py:20 {'errcode': 0, 'errmsg': 'ok', 'taglist': []}

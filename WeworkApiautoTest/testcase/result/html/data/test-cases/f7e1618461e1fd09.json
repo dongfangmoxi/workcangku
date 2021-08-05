@@ -1,0 +1,202 @@
+{
+  "uid" : "f7e1618461e1fd09",
+  "name" : "test_tag_scene",
+  "fullName" : "test_tag.TestTag#test_tag_scene",
+  "historyId" : "006a524575cea249e66dff529aef8e51",
+  "time" : {
+    "start" : 1622708087508,
+    "stop" : 1622708089140,
+    "duration" : 1632
+  },
+  "description" : "\n        标签增删改查场景测试\n        ",
+  "descriptionHtml" : "<pre><code>    标签增删改查场景测试\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestTag",
+    "time" : {
+      "start" : 1622708086874,
+      "stop" : 1622708087503,
+      "duration" : 629
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        标签增删改查场景测试\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "创建标签",
+      "time" : {
+        "start" : 1622708087508,
+        "stop" : 1622708087836,
+        "duration" : 328
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "查询是否创建成功",
+      "time" : {
+        "start" : 1622708087836,
+        "stop" : 1622708088077,
+        "duration" : 241
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "更新标签信息",
+      "time" : {
+        "start" : 1622708088077,
+        "stop" : 1622708088327,
+        "duration" : 250
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "查询是标签否更新",
+      "time" : {
+        "start" : 1622708088327,
+        "stop" : 1622708088607,
+        "duration" : 280
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "删除标签信息",
+      "time" : {
+        "start" : 1622708088608,
+        "stop" : 1622708088892,
+        "duration" : 284
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "查询删除标签信息结果",
+      "time" : {
+        "start" : 1622708088892,
+        "stop" : 1622708089140,
+        "duration" : 248
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "8eba35e8c0920377",
+      "name" : "log",
+      "source" : "8eba35e8c0920377.txt",
+      "type" : "text/plain",
+      "size" : 7447
+    }, {
+      "uid" : "df6021c518ec59b7",
+      "name" : "stdout",
+      "source" : "df6021c518ec59b7.txt",
+      "type" : "text/plain",
+      "size" : 212
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestTag::0",
+    "time" : {
+      "start" : 1622708089141,
+      "stop" : 1622708089141,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "标签场景测试用例"
+  }, {
+    "name" : "feature",
+    "value" : "标签管理测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_tag"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTag"
+  }, {
+    "name" : "host",
+    "value" : "DONGFANG"
+  }, {
+    "name" : "thread",
+    "value" : "12128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_tag"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7e1618461e1fd09.json",
+  "parameterValues" : [ ]
+}

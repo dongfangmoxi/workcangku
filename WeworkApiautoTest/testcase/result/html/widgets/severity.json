@@ -1,0 +1,11 @@
+[ {
+  "uid" : "87d441603b9a671",
+  "name" : "test_tag_scene",
+  "time" : {
+    "start" : 1622979131562,
+    "stop" : 1622979133419,
+    "duration" : 1857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

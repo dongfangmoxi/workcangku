@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "标签管理测试",
+    "children" : [ {
+      "name" : "标签场景测试用例",
+      "children" : [ {
+        "name" : "test_tag_scene",
+        "uid" : "87d441603b9a671",
+        "parentUid" : "8db13ad81a1541eb8893b2bb3f227990",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622979131562,
+          "stop" : 1622979133419,
+          "duration" : 1857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8db13ad81a1541eb8893b2bb3f227990"
+    } ],
+    "uid" : "2c1d656c10eb046559279bb3b4524798"
+  } ]
+}
