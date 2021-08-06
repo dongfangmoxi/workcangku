@@ -1,0 +1,1114 @@
+2021-08-06 20:54:08,155 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.address`.
+2021-08-06 20:54:08,177 faker.factory DEBUG factory:106 Provider `faker.providers.address` has been localized to `en_US`.
+2021-08-06 20:54:08,224 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.automotive`.
+2021-08-06 20:54:08,235 faker.factory DEBUG factory:106 Provider `faker.providers.automotive` has been localized to `en_US`.
+2021-08-06 20:54:08,248 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.bank`.
+2021-08-06 20:54:08,258 faker.factory DEBUG factory:101 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2021-08-06 20:54:08,269 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.barcode`.
+2021-08-06 20:54:08,272 faker.factory DEBUG factory:106 Provider `faker.providers.barcode` has been localized to `en_US`.
+2021-08-06 20:54:08,299 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.color`.
+2021-08-06 20:54:08,304 faker.factory DEBUG factory:106 Provider `faker.providers.color` has been localized to `en_US`.
+2021-08-06 20:54:08,306 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.company`.
+2021-08-06 20:54:08,318 faker.factory DEBUG factory:106 Provider `faker.providers.company` has been localized to `en_US`.
+2021-08-06 20:54:08,321 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2021-08-06 20:54:08,323 faker.factory DEBUG factory:106 Provider `faker.providers.credit_card` has been localized to `en_US`.
+2021-08-06 20:54:08,326 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.currency`.
+2021-08-06 20:54:08,332 faker.factory DEBUG factory:106 Provider `faker.providers.currency` has been localized to `en_US`.
+2021-08-06 20:54:08,342 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.date_time`.
+2021-08-06 20:54:08,353 faker.factory DEBUG factory:106 Provider `faker.providers.date_time` has been localized to `en_US`.
+2021-08-06 20:54:08,355 faker.factory DEBUG factory:113 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:54:08,356 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.geo`.
+2021-08-06 20:54:08,358 faker.factory DEBUG factory:106 Provider `faker.providers.geo` has been localized to `en_US`.
+2021-08-06 20:54:08,361 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.internet`.
+2021-08-06 20:54:08,375 faker.factory DEBUG factory:106 Provider `faker.providers.internet` has been localized to `en_US`.
+2021-08-06 20:54:08,377 faker.factory DEBUG factory:113 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:54:08,378 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.job`.
+2021-08-06 20:54:08,389 faker.factory DEBUG factory:106 Provider `faker.providers.job` has been localized to `en_US`.
+2021-08-06 20:54:08,391 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.lorem`.
+2021-08-06 20:54:08,398 faker.factory DEBUG factory:106 Provider `faker.providers.lorem` has been localized to `en_US`.
+2021-08-06 20:54:08,434 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.misc`.
+2021-08-06 20:54:08,436 faker.factory DEBUG factory:106 Provider `faker.providers.misc` has been localized to `en_US`.
+2021-08-06 20:54:08,438 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.person`.
+2021-08-06 20:54:08,457 faker.factory DEBUG factory:106 Provider `faker.providers.person` has been localized to `en_US`.
+2021-08-06 20:54:08,495 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2021-08-06 20:54:08,513 faker.factory DEBUG factory:106 Provider `faker.providers.phone_number` has been localized to `en_US`.
+2021-08-06 20:54:08,530 faker.factory DEBUG factory:113 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:54:08,531 faker.factory DEBUG factory:113 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:54:08,532 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.ssn`.
+2021-08-06 20:54:08,548 faker.factory DEBUG factory:106 Provider `faker.providers.ssn` has been localized to `en_US`.
+2021-08-06 20:54:08,563 faker.factory DEBUG factory:113 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:54:08,653 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 20:54:08,658 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 20:54:50,926 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 500 179
+2021-08-06 20:54:50,926 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:54:51,406 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 20:54:51,407 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 20:55:41,056 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.address`.
+2021-08-06 20:55:41,076 faker.factory DEBUG factory:106 Provider `faker.providers.address` has been localized to `en_US`.
+2021-08-06 20:55:41,081 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.automotive`.
+2021-08-06 20:55:41,090 faker.factory DEBUG factory:106 Provider `faker.providers.automotive` has been localized to `en_US`.
+2021-08-06 20:55:41,092 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.bank`.
+2021-08-06 20:55:41,099 faker.factory DEBUG factory:101 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2021-08-06 20:55:41,101 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.barcode`.
+2021-08-06 20:55:41,104 faker.factory DEBUG factory:106 Provider `faker.providers.barcode` has been localized to `en_US`.
+2021-08-06 20:55:41,109 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.color`.
+2021-08-06 20:55:41,119 faker.factory DEBUG factory:106 Provider `faker.providers.color` has been localized to `en_US`.
+2021-08-06 20:55:41,122 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.company`.
+2021-08-06 20:55:41,140 faker.factory DEBUG factory:106 Provider `faker.providers.company` has been localized to `en_US`.
+2021-08-06 20:55:41,143 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2021-08-06 20:55:41,146 faker.factory DEBUG factory:106 Provider `faker.providers.credit_card` has been localized to `en_US`.
+2021-08-06 20:55:41,149 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.currency`.
+2021-08-06 20:55:41,156 faker.factory DEBUG factory:106 Provider `faker.providers.currency` has been localized to `en_US`.
+2021-08-06 20:55:41,159 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.date_time`.
+2021-08-06 20:55:41,170 faker.factory DEBUG factory:106 Provider `faker.providers.date_time` has been localized to `en_US`.
+2021-08-06 20:55:41,172 faker.factory DEBUG factory:113 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:55:41,173 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.geo`.
+2021-08-06 20:55:41,177 faker.factory DEBUG factory:106 Provider `faker.providers.geo` has been localized to `en_US`.
+2021-08-06 20:55:41,179 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.internet`.
+2021-08-06 20:55:41,195 faker.factory DEBUG factory:106 Provider `faker.providers.internet` has been localized to `en_US`.
+2021-08-06 20:55:41,198 faker.factory DEBUG factory:113 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:55:41,198 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.job`.
+2021-08-06 20:55:41,209 faker.factory DEBUG factory:106 Provider `faker.providers.job` has been localized to `en_US`.
+2021-08-06 20:55:41,212 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.lorem`.
+2021-08-06 20:55:41,218 faker.factory DEBUG factory:106 Provider `faker.providers.lorem` has been localized to `en_US`.
+2021-08-06 20:55:41,222 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.misc`.
+2021-08-06 20:55:41,224 faker.factory DEBUG factory:106 Provider `faker.providers.misc` has been localized to `en_US`.
+2021-08-06 20:55:41,227 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.person`.
+2021-08-06 20:55:41,245 faker.factory DEBUG factory:106 Provider `faker.providers.person` has been localized to `en_US`.
+2021-08-06 20:55:41,252 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2021-08-06 20:55:41,271 faker.factory DEBUG factory:106 Provider `faker.providers.phone_number` has been localized to `en_US`.
+2021-08-06 20:55:41,273 faker.factory DEBUG factory:113 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:55:41,273 faker.factory DEBUG factory:113 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:55:41,274 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.ssn`.
+2021-08-06 20:55:41,293 faker.factory DEBUG factory:106 Provider `faker.providers.ssn` has been localized to `en_US`.
+2021-08-06 20:55:41,296 faker.factory DEBUG factory:113 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:55:41,312 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 20:55:41,314 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 20:56:21,425 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 962
+2021-08-06 20:56:21,426 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:21,427 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:21,509 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:56:21,509 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:21,513 root INFO basepage:29 find_and_click
+2021-08-06 20:56:21,513 root INFO basepage:23 find
+2021-08-06 20:56:21,513 root INFO basepage:24 xpath
+2021-08-06 20:56:21,514 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 20:56:21,514 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:29,658 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:29,658 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:29,659 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/18b2ba51-830f-44a2-a1bb-6b1044533f00/click {"id": "18b2ba51-830f-44a2-a1bb-6b1044533f00", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:29,881 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/18b2ba51-830f-44a2-a1bb-6b1044533f00/click HTTP/1.1" 200 76
+2021-08-06 20:56:29,881 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:29,882 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:29,889 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:56:29,889 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:29,890 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:30,995 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:30,996 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:30,996 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:31,001 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:56:31,002 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:31,003 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/19557c0f-98ec-400e-93f3-0b0b8fbca103/click {"id": "19557c0f-98ec-400e-93f3-0b0b8fbca103", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:31,086 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/19557c0f-98ec-400e-93f3-0b0b8fbca103/click HTTP/1.1" 200 76
+2021-08-06 20:56:31,086 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:31,086 root INFO basepage:29 find_and_click
+2021-08-06 20:56:31,087 root INFO basepage:23 find
+2021-08-06 20:56:31,087 root INFO basepage:24 xpath
+2021-08-06 20:56:31,087 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 20:56:31,087 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:33,446 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:33,447 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:33,447 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/e51a1f55-02ce-420d-956c-28f77d3bc2db/click {"id": "e51a1f55-02ce-420d-956c-28f77d3bc2db", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:33,532 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/e51a1f55-02ce-420d-956c-28f77d3bc2db/click HTTP/1.1" 200 76
+2021-08-06 20:56:33,532 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:33,553 root INFO basepage:23 find
+2021-08-06 20:56:33,553 root INFO basepage:24 xpath
+2021-08-06 20:56:33,553 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 20:56:33,553 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:34,756 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:34,757 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:34,757 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/70ae2dda-d3e2-4c1c-9d09-41a1f3150409/value {"text": "\u5f20\u4e09", "value": ["\u5f20", "\u4e09"], "id": "70ae2dda-d3e2-4c1c-9d09-41a1f3150409", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:34,845 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/70ae2dda-d3e2-4c1c-9d09-41a1f3150409/value HTTP/1.1" 200 76
+2021-08-06 20:56:34,846 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:34,846 root INFO basepage:23 find
+2021-08-06 20:56:34,847 root INFO basepage:24 xpath
+2021-08-06 20:56:34,847 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 20:56:34,847 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:34,926 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:34,927 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:34,927 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/c25fdc94-3ef1-4b4f-851e-dcdebe84a63b/value {"text": "15678541569", "value": ["1", "5", "6", "7", "8", "5", "4", "1", "5", "6", "9"], "id": "c25fdc94-3ef1-4b4f-851e-dcdebe84a63b", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:34,972 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/c25fdc94-3ef1-4b4f-851e-dcdebe84a63b/value HTTP/1.1" 200 76
+2021-08-06 20:56:34,973 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:34,973 root INFO basepage:23 find
+2021-08-06 20:56:34,973 root INFO basepage:24 xpath
+2021-08-06 20:56:34,973 root INFO basepage:25 //*[@text='保存']
+2021-08-06 20:56:34,973 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:35,046 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:35,047 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:35,047 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/66e80955-6ac6-405f-81bc-527bc38ace37/click {"id": "66e80955-6ac6-405f-81bc-527bc38ace37", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:35,129 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/66e80955-6ac6-405f-81bc-527bc38ace37/click HTTP/1.1" 200 76
+2021-08-06 20:56:35,130 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:35,130 root INFO basepage:23 find
+2021-08-06 20:56:35,131 root INFO basepage:24 xpath
+2021-08-06 20:56:35,131 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 20:56:35,131 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:36,615 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:36,616 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:36,618 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:37,205 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:56:37,206 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:37,206 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:37,390 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:56:37,391 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:37,391 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:37,564 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:56:37,565 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:37,569 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/appium/app/launch {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:51,841 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/appium/app/launch HTTP/1.1" 200 76
+2021-08-06 20:56:51,842 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:51,844 root INFO basepage:29 find_and_click
+2021-08-06 20:56:51,844 root INFO basepage:23 find
+2021-08-06 20:56:51,845 root INFO basepage:24 xpath
+2021-08-06 20:56:51,845 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 20:56:51,845 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:57,634 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:57,635 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:57,635 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/c1f2d8b5-4669-40d2-82b2-982b7982dd76/click {"id": "c1f2d8b5-4669-40d2-82b2-982b7982dd76", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:57,729 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/c1f2d8b5-4669-40d2-82b2-982b7982dd76/click HTTP/1.1" 200 76
+2021-08-06 20:56:57,730 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:57,730 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:57,741 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:56:57,742 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:57,742 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:58,430 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:56:58,430 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:58,431 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:58,440 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:56:58,440 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:58,441 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/2ede3fa5-90c2-420b-b76f-1f173edafc8c/click {"id": "2ede3fa5-90c2-420b-b76f-1f173edafc8c", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:56:58,491 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/2ede3fa5-90c2-420b-b76f-1f173edafc8c/click HTTP/1.1" 200 76
+2021-08-06 20:56:58,492 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:56:58,492 root INFO basepage:29 find_and_click
+2021-08-06 20:56:58,492 root INFO basepage:23 find
+2021-08-06 20:56:58,492 root INFO basepage:24 xpath
+2021-08-06 20:56:58,493 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 20:56:58,493 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:01,144 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:01,145 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:01,145 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/29ac3b4e-7f2e-4a9a-82fe-acc8452dd9c3/click {"id": "29ac3b4e-7f2e-4a9a-82fe-acc8452dd9c3", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:01,195 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/29ac3b4e-7f2e-4a9a-82fe-acc8452dd9c3/click HTTP/1.1" 200 76
+2021-08-06 20:57:01,195 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:01,196 root INFO basepage:23 find
+2021-08-06 20:57:01,196 root INFO basepage:24 xpath
+2021-08-06 20:57:01,196 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 20:57:01,196 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:02,827 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:02,828 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:02,828 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/964d0d02-57fb-43a2-a8e9-f8c3d065d364/value {"text": "\u674e\u56db", "value": ["\u674e", "\u56db"], "id": "964d0d02-57fb-43a2-a8e9-f8c3d065d364", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:02,967 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/964d0d02-57fb-43a2-a8e9-f8c3d065d364/value HTTP/1.1" 200 76
+2021-08-06 20:57:02,968 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:02,968 root INFO basepage:23 find
+2021-08-06 20:57:02,968 root INFO basepage:24 xpath
+2021-08-06 20:57:02,969 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 20:57:02,969 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:03,041 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:03,042 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:03,042 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/3d11d166-80e8-46ca-9704-3277d9e006de/value {"text": "18396587412", "value": ["1", "8", "3", "9", "6", "5", "8", "7", "4", "1", "2"], "id": "3d11d166-80e8-46ca-9704-3277d9e006de", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:03,114 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/3d11d166-80e8-46ca-9704-3277d9e006de/value HTTP/1.1" 200 76
+2021-08-06 20:57:03,115 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:03,115 root INFO basepage:23 find
+2021-08-06 20:57:03,115 root INFO basepage:24 xpath
+2021-08-06 20:57:03,115 root INFO basepage:25 //*[@text='保存']
+2021-08-06 20:57:03,116 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:03,174 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:03,174 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:03,175 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/55e8e23d-2463-477b-82b0-64f2183711ff/click {"id": "55e8e23d-2463-477b-82b0-64f2183711ff", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:03,222 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/55e8e23d-2463-477b-82b0-64f2183711ff/click HTTP/1.1" 200 76
+2021-08-06 20:57:03,223 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:03,223 root INFO basepage:23 find
+2021-08-06 20:57:03,223 root INFO basepage:24 xpath
+2021-08-06 20:57:03,224 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 20:57:03,224 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:05,082 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:05,083 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:05,087 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:05,308 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:57:05,308 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:05,309 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:05,481 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:57:05,482 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:05,482 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:05,606 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:57:05,607 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:05,611 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/appium/app/launch {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:19,982 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/appium/app/launch HTTP/1.1" 200 76
+2021-08-06 20:57:19,982 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:19,984 root INFO basepage:29 find_and_click
+2021-08-06 20:57:19,984 root INFO basepage:23 find
+2021-08-06 20:57:19,985 root INFO basepage:24 xpath
+2021-08-06 20:57:19,985 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 20:57:19,985 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:25,467 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:25,468 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:25,469 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/405ffbb5-cf15-41c6-ad70-1588e69d63ce/click {"id": "405ffbb5-cf15-41c6-ad70-1588e69d63ce", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:25,549 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/405ffbb5-cf15-41c6-ad70-1588e69d63ce/click HTTP/1.1" 200 76
+2021-08-06 20:57:25,550 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:25,550 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:25,560 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:57:25,561 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:25,562 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:26,519 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:26,519 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:26,520 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:26,531 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:57:26,532 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:26,532 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/ef028bb6-cd65-4073-a8cb-d97e5396a6e4/click {"id": "ef028bb6-cd65-4073-a8cb-d97e5396a6e4", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:26,672 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/ef028bb6-cd65-4073-a8cb-d97e5396a6e4/click HTTP/1.1" 200 76
+2021-08-06 20:57:26,673 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:26,673 root INFO basepage:29 find_and_click
+2021-08-06 20:57:26,674 root INFO basepage:23 find
+2021-08-06 20:57:26,674 root INFO basepage:24 xpath
+2021-08-06 20:57:26,674 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 20:57:26,674 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:29,115 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:29,116 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:29,116 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/a22deee1-ad43-4e87-95ab-def95ffd93d2/click {"id": "a22deee1-ad43-4e87-95ab-def95ffd93d2", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:29,147 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/a22deee1-ad43-4e87-95ab-def95ffd93d2/click HTTP/1.1" 200 76
+2021-08-06 20:57:29,147 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:29,148 root INFO basepage:23 find
+2021-08-06 20:57:29,148 root INFO basepage:24 xpath
+2021-08-06 20:57:29,148 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 20:57:29,148 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:30,157 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:30,158 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:30,158 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/a7aefc63-3abf-495e-91f1-39549f431308/value {"text": "\u738b\u4e8c", "value": ["\u738b", "\u4e8c"], "id": "a7aefc63-3abf-495e-91f1-39549f431308", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:30,336 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/a7aefc63-3abf-495e-91f1-39549f431308/value HTTP/1.1" 200 76
+2021-08-06 20:57:30,336 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:30,337 root INFO basepage:23 find
+2021-08-06 20:57:30,337 root INFO basepage:24 xpath
+2021-08-06 20:57:30,337 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 20:57:30,337 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:30,425 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:30,426 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:30,427 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/a7cc4277-3c7f-43c5-a1a8-9e877016ef0e/value {"text": "13625368974", "value": ["1", "3", "6", "2", "5", "3", "6", "8", "9", "7", "4"], "id": "a7cc4277-3c7f-43c5-a1a8-9e877016ef0e", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:30,477 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/a7cc4277-3c7f-43c5-a1a8-9e877016ef0e/value HTTP/1.1" 200 76
+2021-08-06 20:57:30,478 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:30,478 root INFO basepage:23 find
+2021-08-06 20:57:30,478 root INFO basepage:24 xpath
+2021-08-06 20:57:30,479 root INFO basepage:25 //*[@text='保存']
+2021-08-06 20:57:30,479 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:30,548 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:30,548 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:30,549 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/155ca42a-372f-4886-905b-9a774d8bfaa7/click {"id": "155ca42a-372f-4886-905b-9a774d8bfaa7", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:30,586 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element/155ca42a-372f-4886-905b-9a774d8bfaa7/click HTTP/1.1" 200 76
+2021-08-06 20:57:30,587 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:30,587 root INFO basepage:23 find
+2021-08-06 20:57:30,587 root INFO basepage:24 xpath
+2021-08-06 20:57:30,587 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 20:57:30,588 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:31,562 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element HTTP/1.1" 200 199
+2021-08-06 20:57:31,563 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:31,565 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:32,467 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:57:32,467 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:32,468 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:32,664 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:57:32,665 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:32,665 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:32,849 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/back HTTP/1.1" 200 76
+2021-08-06 20:57:32,850 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:32,854 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/appium/app/launch {"sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:57:47,706 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/appium/app/launch HTTP/1.1" 200 76
+2021-08-06 20:57:47,707 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:57:47,709 root INFO basepage:29 find_and_click
+2021-08-06 20:57:47,710 root INFO basepage:23 find
+2021-08-06 20:57:47,710 root INFO basepage:24 xpath
+2021-08-06 20:57:47,710 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 20:57:47,711 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/d4d40542-bbbd-4086-835d-9a5bef74f3a4/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "d4d40542-bbbd-4086-835d-9a5bef74f3a4"}
+2021-08-06 20:58:41,915 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.address`.
+2021-08-06 20:58:41,932 faker.factory DEBUG factory:106 Provider `faker.providers.address` has been localized to `en_US`.
+2021-08-06 20:58:41,937 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.automotive`.
+2021-08-06 20:58:41,949 faker.factory DEBUG factory:106 Provider `faker.providers.automotive` has been localized to `en_US`.
+2021-08-06 20:58:41,951 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.bank`.
+2021-08-06 20:58:41,958 faker.factory DEBUG factory:101 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2021-08-06 20:58:41,961 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.barcode`.
+2021-08-06 20:58:41,964 faker.factory DEBUG factory:106 Provider `faker.providers.barcode` has been localized to `en_US`.
+2021-08-06 20:58:41,968 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.color`.
+2021-08-06 20:58:41,976 faker.factory DEBUG factory:106 Provider `faker.providers.color` has been localized to `en_US`.
+2021-08-06 20:58:41,978 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.company`.
+2021-08-06 20:58:41,990 faker.factory DEBUG factory:106 Provider `faker.providers.company` has been localized to `en_US`.
+2021-08-06 20:58:41,992 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2021-08-06 20:58:41,994 faker.factory DEBUG factory:106 Provider `faker.providers.credit_card` has been localized to `en_US`.
+2021-08-06 20:58:41,996 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.currency`.
+2021-08-06 20:58:42,002 faker.factory DEBUG factory:106 Provider `faker.providers.currency` has been localized to `en_US`.
+2021-08-06 20:58:42,004 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.date_time`.
+2021-08-06 20:58:42,013 faker.factory DEBUG factory:106 Provider `faker.providers.date_time` has been localized to `en_US`.
+2021-08-06 20:58:42,015 faker.factory DEBUG factory:113 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:58:42,016 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.geo`.
+2021-08-06 20:58:42,018 faker.factory DEBUG factory:106 Provider `faker.providers.geo` has been localized to `en_US`.
+2021-08-06 20:58:42,020 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.internet`.
+2021-08-06 20:58:42,031 faker.factory DEBUG factory:106 Provider `faker.providers.internet` has been localized to `en_US`.
+2021-08-06 20:58:42,034 faker.factory DEBUG factory:113 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:58:42,034 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.job`.
+2021-08-06 20:58:42,042 faker.factory DEBUG factory:106 Provider `faker.providers.job` has been localized to `en_US`.
+2021-08-06 20:58:42,044 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.lorem`.
+2021-08-06 20:58:42,050 faker.factory DEBUG factory:106 Provider `faker.providers.lorem` has been localized to `en_US`.
+2021-08-06 20:58:42,053 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.misc`.
+2021-08-06 20:58:42,055 faker.factory DEBUG factory:106 Provider `faker.providers.misc` has been localized to `en_US`.
+2021-08-06 20:58:42,057 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.person`.
+2021-08-06 20:58:42,075 faker.factory DEBUG factory:106 Provider `faker.providers.person` has been localized to `en_US`.
+2021-08-06 20:58:42,083 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2021-08-06 20:58:42,100 faker.factory DEBUG factory:106 Provider `faker.providers.phone_number` has been localized to `en_US`.
+2021-08-06 20:58:42,102 faker.factory DEBUG factory:113 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:58:42,103 faker.factory DEBUG factory:113 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:58:42,103 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.ssn`.
+2021-08-06 20:58:42,117 faker.factory DEBUG factory:106 Provider `faker.providers.ssn` has been localized to `en_US`.
+2021-08-06 20:58:42,120 faker.factory DEBUG factory:113 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 20:58:42,134 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 20:58:42,136 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 20:59:13,807 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 962
+2021-08-06 20:59:13,808 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:13,809 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:13,818 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:59:13,819 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:13,822 root INFO basepage:29 find_and_click
+2021-08-06 20:59:13,822 root INFO basepage:23 find
+2021-08-06 20:59:13,823 root INFO basepage:24 xpath
+2021-08-06 20:59:13,823 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 20:59:13,823 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:23,599 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element HTTP/1.1" 200 199
+2021-08-06 20:59:23,599 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:23,600 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/d434f970-88e8-478a-86c7-e9b0bbf3d783/click {"id": "d434f970-88e8-478a-86c7-e9b0bbf3d783", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:23,706 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/d434f970-88e8-478a-86c7-e9b0bbf3d783/click HTTP/1.1" 200 76
+2021-08-06 20:59:23,707 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:23,707 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:23,718 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:59:23,719 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:23,719 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:24,603 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element HTTP/1.1" 200 199
+2021-08-06 20:59:24,603 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:24,604 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:24,614 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 20:59:24,615 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:24,615 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/5d789c82-441d-452e-8565-e033cdbe6041/click {"id": "5d789c82-441d-452e-8565-e033cdbe6041", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:24,657 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/5d789c82-441d-452e-8565-e033cdbe6041/click HTTP/1.1" 200 76
+2021-08-06 20:59:24,657 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:24,658 root INFO basepage:29 find_and_click
+2021-08-06 20:59:24,658 root INFO basepage:23 find
+2021-08-06 20:59:24,658 root INFO basepage:24 xpath
+2021-08-06 20:59:24,658 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 20:59:24,658 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:26,780 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element HTTP/1.1" 200 199
+2021-08-06 20:59:26,781 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:26,781 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/d9d5e157-55dd-4766-9a0e-052243d12de6/click {"id": "d9d5e157-55dd-4766-9a0e-052243d12de6", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:26,873 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/d9d5e157-55dd-4766-9a0e-052243d12de6/click HTTP/1.1" 200 76
+2021-08-06 20:59:26,873 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:26,877 root INFO basepage:23 find
+2021-08-06 20:59:26,877 root INFO basepage:24 xpath
+2021-08-06 20:59:26,877 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 20:59:26,878 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:28,423 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element HTTP/1.1" 200 199
+2021-08-06 20:59:28,424 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:28,424 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/206c94c1-1606-4cd1-a415-acca150b88c8/value {"text": "\u5f20\u4e09", "value": ["\u5f20", "\u4e09"], "id": "206c94c1-1606-4cd1-a415-acca150b88c8", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:28,576 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/206c94c1-1606-4cd1-a415-acca150b88c8/value HTTP/1.1" 200 76
+2021-08-06 20:59:28,577 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:28,577 root INFO basepage:23 find
+2021-08-06 20:59:28,577 root INFO basepage:24 xpath
+2021-08-06 20:59:28,578 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 20:59:28,578 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:28,640 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element HTTP/1.1" 200 199
+2021-08-06 20:59:28,640 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:28,641 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/232a6d46-60ea-42ac-9cab-c3d51192bb99/value {"text": "15678541569", "value": ["1", "5", "6", "7", "8", "5", "4", "1", "5", "6", "9"], "id": "232a6d46-60ea-42ac-9cab-c3d51192bb99", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:28,692 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/232a6d46-60ea-42ac-9cab-c3d51192bb99/value HTTP/1.1" 200 76
+2021-08-06 20:59:28,693 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:28,693 root INFO basepage:23 find
+2021-08-06 20:59:28,694 root INFO basepage:24 xpath
+2021-08-06 20:59:28,694 root INFO basepage:25 //*[@text='保存']
+2021-08-06 20:59:28,694 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:28,760 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element HTTP/1.1" 200 199
+2021-08-06 20:59:28,761 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:28,761 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/4d2cd9ce-b312-4757-b51c-4705cf30b540/click {"id": "4d2cd9ce-b312-4757-b51c-4705cf30b540", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:28,859 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element/4d2cd9ce-b312-4757-b51c-4705cf30b540/click HTTP/1.1" 200 76
+2021-08-06 20:59:28,860 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:28,860 root INFO basepage:23 find
+2021-08-06 20:59:28,861 root INFO basepage:24 xpath
+2021-08-06 20:59:28,861 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 20:59:28,861 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 20:59:34,065 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element HTTP/1.1" 500 164
+2021-08-06 20:59:34,065 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 20:59:34,547 root INFO basepage:29 find_and_click
+2021-08-06 20:59:34,547 root INFO basepage:23 find
+2021-08-06 20:59:34,547 root INFO basepage:24 xpath
+2021-08-06 20:59:34,548 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 20:59:34,548 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/e25ea44a-2375-4d36-9154-25a87c14937a/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "e25ea44a-2375-4d36-9154-25a87c14937a"}
+2021-08-06 21:01:59,686 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.address`.
+2021-08-06 21:01:59,703 faker.factory DEBUG factory:106 Provider `faker.providers.address` has been localized to `en_US`.
+2021-08-06 21:01:59,708 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.automotive`.
+2021-08-06 21:01:59,716 faker.factory DEBUG factory:106 Provider `faker.providers.automotive` has been localized to `en_US`.
+2021-08-06 21:01:59,718 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.bank`.
+2021-08-06 21:01:59,726 faker.factory DEBUG factory:101 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2021-08-06 21:01:59,728 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.barcode`.
+2021-08-06 21:01:59,731 faker.factory DEBUG factory:106 Provider `faker.providers.barcode` has been localized to `en_US`.
+2021-08-06 21:01:59,734 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.color`.
+2021-08-06 21:01:59,745 faker.factory DEBUG factory:106 Provider `faker.providers.color` has been localized to `en_US`.
+2021-08-06 21:01:59,749 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.company`.
+2021-08-06 21:01:59,767 faker.factory DEBUG factory:106 Provider `faker.providers.company` has been localized to `en_US`.
+2021-08-06 21:01:59,770 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2021-08-06 21:01:59,773 faker.factory DEBUG factory:106 Provider `faker.providers.credit_card` has been localized to `en_US`.
+2021-08-06 21:01:59,775 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.currency`.
+2021-08-06 21:01:59,781 faker.factory DEBUG factory:106 Provider `faker.providers.currency` has been localized to `en_US`.
+2021-08-06 21:01:59,783 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.date_time`.
+2021-08-06 21:01:59,792 faker.factory DEBUG factory:106 Provider `faker.providers.date_time` has been localized to `en_US`.
+2021-08-06 21:01:59,795 faker.factory DEBUG factory:113 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:01:59,796 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.geo`.
+2021-08-06 21:01:59,799 faker.factory DEBUG factory:106 Provider `faker.providers.geo` has been localized to `en_US`.
+2021-08-06 21:01:59,800 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.internet`.
+2021-08-06 21:01:59,812 faker.factory DEBUG factory:106 Provider `faker.providers.internet` has been localized to `en_US`.
+2021-08-06 21:01:59,814 faker.factory DEBUG factory:113 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:01:59,814 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.job`.
+2021-08-06 21:01:59,823 faker.factory DEBUG factory:106 Provider `faker.providers.job` has been localized to `en_US`.
+2021-08-06 21:01:59,825 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.lorem`.
+2021-08-06 21:01:59,831 faker.factory DEBUG factory:106 Provider `faker.providers.lorem` has been localized to `en_US`.
+2021-08-06 21:01:59,834 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.misc`.
+2021-08-06 21:01:59,836 faker.factory DEBUG factory:106 Provider `faker.providers.misc` has been localized to `en_US`.
+2021-08-06 21:01:59,838 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.person`.
+2021-08-06 21:01:59,859 faker.factory DEBUG factory:106 Provider `faker.providers.person` has been localized to `en_US`.
+2021-08-06 21:01:59,870 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2021-08-06 21:01:59,899 faker.factory DEBUG factory:106 Provider `faker.providers.phone_number` has been localized to `en_US`.
+2021-08-06 21:01:59,902 faker.factory DEBUG factory:113 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:01:59,902 faker.factory DEBUG factory:113 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:01:59,903 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.ssn`.
+2021-08-06 21:01:59,925 faker.factory DEBUG factory:106 Provider `faker.providers.ssn` has been localized to `en_US`.
+2021-08-06 21:01:59,928 faker.factory DEBUG factory:113 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:01:59,942 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 21:01:59,944 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 21:02:34,250 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 962
+2021-08-06 21:02:34,251 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:34,252 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:34,264 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:02:34,265 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:34,268 root INFO basepage:29 find_and_click
+2021-08-06 21:02:34,268 root INFO basepage:23 find
+2021-08-06 21:02:34,269 root INFO basepage:24 xpath
+2021-08-06 21:02:34,269 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:02:34,269 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:40,137 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 200 199
+2021-08-06 21:02:40,138 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:40,138 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/b9784062-d111-42c3-9fb0-ab0a907f3600/click {"id": "b9784062-d111-42c3-9fb0-ab0a907f3600", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:40,249 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/b9784062-d111-42c3-9fb0-ab0a907f3600/click HTTP/1.1" 200 76
+2021-08-06 21:02:40,250 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:40,251 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:40,260 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:02:40,261 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:40,261 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:41,122 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 200 199
+2021-08-06 21:02:41,123 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:41,123 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:41,130 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:02:41,131 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:41,131 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/db14114f-992d-49fb-9deb-9424441d11f8/click {"id": "db14114f-992d-49fb-9deb-9424441d11f8", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:41,185 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/db14114f-992d-49fb-9deb-9424441d11f8/click HTTP/1.1" 200 76
+2021-08-06 21:02:41,186 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:41,186 root INFO basepage:29 find_and_click
+2021-08-06 21:02:41,187 root INFO basepage:23 find
+2021-08-06 21:02:41,187 root INFO basepage:24 xpath
+2021-08-06 21:02:41,187 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 21:02:41,187 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:42,827 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 200 199
+2021-08-06 21:02:42,827 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:42,828 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/13348d43-525c-4dc3-bedc-999958320cdc/click {"id": "13348d43-525c-4dc3-bedc-999958320cdc", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:42,945 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/13348d43-525c-4dc3-bedc-999958320cdc/click HTTP/1.1" 200 76
+2021-08-06 21:02:42,946 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:42,949 root INFO basepage:23 find
+2021-08-06 21:02:42,949 root INFO basepage:24 xpath
+2021-08-06 21:02:42,950 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 21:02:42,950 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:44,106 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 200 199
+2021-08-06 21:02:44,107 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:44,107 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/ee5ef166-560b-46ba-be13-ff78323faa94/value {"text": "\u5f20\u4e09", "value": ["\u5f20", "\u4e09"], "id": "ee5ef166-560b-46ba-be13-ff78323faa94", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:44,322 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/ee5ef166-560b-46ba-be13-ff78323faa94/value HTTP/1.1" 200 76
+2021-08-06 21:02:44,323 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:44,323 root INFO basepage:23 find
+2021-08-06 21:02:44,323 root INFO basepage:24 xpath
+2021-08-06 21:02:44,323 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 21:02:44,323 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:44,983 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 200 199
+2021-08-06 21:02:44,984 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:44,984 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/18dc2a0a-78b0-4e5f-bff2-f8fb7a49e61c/value {"text": "15678541569", "value": ["1", "5", "6", "7", "8", "5", "4", "1", "5", "6", "9"], "id": "18dc2a0a-78b0-4e5f-bff2-f8fb7a49e61c", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:45,024 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/18dc2a0a-78b0-4e5f-bff2-f8fb7a49e61c/value HTTP/1.1" 200 76
+2021-08-06 21:02:45,025 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:45,026 root INFO basepage:23 find
+2021-08-06 21:02:45,026 root INFO basepage:24 xpath
+2021-08-06 21:02:45,026 root INFO basepage:25 //*[@text='保存']
+2021-08-06 21:02:45,027 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:45,120 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 200 199
+2021-08-06 21:02:45,121 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:45,121 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/efa7cf64-7302-46ff-a636-1aa5d34b5016/click {"id": "efa7cf64-7302-46ff-a636-1aa5d34b5016", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:45,163 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element/efa7cf64-7302-46ff-a636-1aa5d34b5016/click HTTP/1.1" 200 76
+2021-08-06 21:02:45,163 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:45,164 root INFO basepage:23 find
+2021-08-06 21:02:45,164 root INFO basepage:24 xpath
+2021-08-06 21:02:45,164 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 21:02:45,164 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:46,578 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 200 199
+2021-08-06 21:02:46,579 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:46,587 root INFO basepage:29 find_and_click
+2021-08-06 21:02:46,587 root INFO basepage:23 find
+2021-08-06 21:02:46,587 root INFO basepage:24 xpath
+2021-08-06 21:02:46,587 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:02:46,588 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:51,606 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 500 164
+2021-08-06 21:02:51,606 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:52,019 root INFO basepage:29 find_and_click
+2021-08-06 21:02:52,020 root INFO basepage:23 find
+2021-08-06 21:02:52,020 root INFO basepage:24 xpath
+2021-08-06 21:02:52,020 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:02:52,020 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:02:57,147 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 500 164
+2021-08-06 21:02:57,148 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:02:57,215 root INFO basepage:29 find_and_click
+2021-08-06 21:02:57,216 root INFO basepage:23 find
+2021-08-06 21:02:57,216 root INFO basepage:24 xpath
+2021-08-06 21:02:57,216 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:02:57,217 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:03:02,401 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element HTTP/1.1" 500 164
+2021-08-06 21:03:02,402 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:03:02,471 root INFO basepage:29 find_and_click
+2021-08-06 21:03:02,471 root INFO basepage:23 find
+2021-08-06 21:03:02,471 root INFO basepage:24 xpath
+2021-08-06 21:03:02,471 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:03:02,471 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/42f9c19d-13e1-4fbf-b06d-bd9041279151/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "42f9c19d-13e1-4fbf-b06d-bd9041279151"}
+2021-08-06 21:08:21,947 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.address`.
+2021-08-06 21:08:21,965 faker.factory DEBUG factory:106 Provider `faker.providers.address` has been localized to `en_US`.
+2021-08-06 21:08:21,971 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.automotive`.
+2021-08-06 21:08:21,979 faker.factory DEBUG factory:106 Provider `faker.providers.automotive` has been localized to `en_US`.
+2021-08-06 21:08:21,981 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.bank`.
+2021-08-06 21:08:21,988 faker.factory DEBUG factory:101 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2021-08-06 21:08:21,990 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.barcode`.
+2021-08-06 21:08:21,993 faker.factory DEBUG factory:106 Provider `faker.providers.barcode` has been localized to `en_US`.
+2021-08-06 21:08:21,997 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.color`.
+2021-08-06 21:08:22,006 faker.factory DEBUG factory:106 Provider `faker.providers.color` has been localized to `en_US`.
+2021-08-06 21:08:22,008 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.company`.
+2021-08-06 21:08:22,018 faker.factory DEBUG factory:106 Provider `faker.providers.company` has been localized to `en_US`.
+2021-08-06 21:08:22,021 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2021-08-06 21:08:22,024 faker.factory DEBUG factory:106 Provider `faker.providers.credit_card` has been localized to `en_US`.
+2021-08-06 21:08:22,026 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.currency`.
+2021-08-06 21:08:22,032 faker.factory DEBUG factory:106 Provider `faker.providers.currency` has been localized to `en_US`.
+2021-08-06 21:08:22,034 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.date_time`.
+2021-08-06 21:08:22,043 faker.factory DEBUG factory:106 Provider `faker.providers.date_time` has been localized to `en_US`.
+2021-08-06 21:08:22,046 faker.factory DEBUG factory:113 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:08:22,046 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.geo`.
+2021-08-06 21:08:22,049 faker.factory DEBUG factory:106 Provider `faker.providers.geo` has been localized to `en_US`.
+2021-08-06 21:08:22,051 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.internet`.
+2021-08-06 21:08:22,062 faker.factory DEBUG factory:106 Provider `faker.providers.internet` has been localized to `en_US`.
+2021-08-06 21:08:22,065 faker.factory DEBUG factory:113 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:08:22,065 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.job`.
+2021-08-06 21:08:22,073 faker.factory DEBUG factory:106 Provider `faker.providers.job` has been localized to `en_US`.
+2021-08-06 21:08:22,075 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.lorem`.
+2021-08-06 21:08:22,081 faker.factory DEBUG factory:106 Provider `faker.providers.lorem` has been localized to `en_US`.
+2021-08-06 21:08:22,084 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.misc`.
+2021-08-06 21:08:22,086 faker.factory DEBUG factory:106 Provider `faker.providers.misc` has been localized to `en_US`.
+2021-08-06 21:08:22,088 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.person`.
+2021-08-06 21:08:22,106 faker.factory DEBUG factory:106 Provider `faker.providers.person` has been localized to `en_US`.
+2021-08-06 21:08:22,113 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2021-08-06 21:08:22,131 faker.factory DEBUG factory:106 Provider `faker.providers.phone_number` has been localized to `en_US`.
+2021-08-06 21:08:22,133 faker.factory DEBUG factory:113 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:08:22,133 faker.factory DEBUG factory:113 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:08:22,134 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.ssn`.
+2021-08-06 21:08:22,148 faker.factory DEBUG factory:106 Provider `faker.providers.ssn` has been localized to `en_US`.
+2021-08-06 21:08:22,151 faker.factory DEBUG factory:113 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:08:22,165 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 21:08:22,166 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 21:09:43,470 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.address`.
+2021-08-06 21:09:43,487 faker.factory DEBUG factory:106 Provider `faker.providers.address` has been localized to `en_US`.
+2021-08-06 21:09:43,492 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.automotive`.
+2021-08-06 21:09:43,500 faker.factory DEBUG factory:106 Provider `faker.providers.automotive` has been localized to `en_US`.
+2021-08-06 21:09:43,503 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.bank`.
+2021-08-06 21:09:43,511 faker.factory DEBUG factory:101 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2021-08-06 21:09:43,514 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.barcode`.
+2021-08-06 21:09:43,516 faker.factory DEBUG factory:106 Provider `faker.providers.barcode` has been localized to `en_US`.
+2021-08-06 21:09:43,522 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.color`.
+2021-08-06 21:09:43,529 faker.factory DEBUG factory:106 Provider `faker.providers.color` has been localized to `en_US`.
+2021-08-06 21:09:43,531 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.company`.
+2021-08-06 21:09:43,542 faker.factory DEBUG factory:106 Provider `faker.providers.company` has been localized to `en_US`.
+2021-08-06 21:09:43,545 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2021-08-06 21:09:43,547 faker.factory DEBUG factory:106 Provider `faker.providers.credit_card` has been localized to `en_US`.
+2021-08-06 21:09:43,549 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.currency`.
+2021-08-06 21:09:43,554 faker.factory DEBUG factory:106 Provider `faker.providers.currency` has been localized to `en_US`.
+2021-08-06 21:09:43,557 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.date_time`.
+2021-08-06 21:09:43,565 faker.factory DEBUG factory:106 Provider `faker.providers.date_time` has been localized to `en_US`.
+2021-08-06 21:09:43,568 faker.factory DEBUG factory:113 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:09:43,568 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.geo`.
+2021-08-06 21:09:43,571 faker.factory DEBUG factory:106 Provider `faker.providers.geo` has been localized to `en_US`.
+2021-08-06 21:09:43,573 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.internet`.
+2021-08-06 21:09:43,585 faker.factory DEBUG factory:106 Provider `faker.providers.internet` has been localized to `en_US`.
+2021-08-06 21:09:43,586 faker.factory DEBUG factory:113 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:09:43,586 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.job`.
+2021-08-06 21:09:43,594 faker.factory DEBUG factory:106 Provider `faker.providers.job` has been localized to `en_US`.
+2021-08-06 21:09:43,596 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.lorem`.
+2021-08-06 21:09:43,603 faker.factory DEBUG factory:106 Provider `faker.providers.lorem` has been localized to `en_US`.
+2021-08-06 21:09:43,606 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.misc`.
+2021-08-06 21:09:43,608 faker.factory DEBUG factory:106 Provider `faker.providers.misc` has been localized to `en_US`.
+2021-08-06 21:09:43,610 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.person`.
+2021-08-06 21:09:43,628 faker.factory DEBUG factory:106 Provider `faker.providers.person` has been localized to `en_US`.
+2021-08-06 21:09:43,634 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2021-08-06 21:09:43,652 faker.factory DEBUG factory:106 Provider `faker.providers.phone_number` has been localized to `en_US`.
+2021-08-06 21:09:43,654 faker.factory DEBUG factory:113 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:09:43,654 faker.factory DEBUG factory:113 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:09:43,654 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.ssn`.
+2021-08-06 21:09:43,670 faker.factory DEBUG factory:106 Provider `faker.providers.ssn` has been localized to `en_US`.
+2021-08-06 21:09:43,672 faker.factory DEBUG factory:113 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:09:43,686 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 21:09:43,687 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 21:10:17,921 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 962
+2021-08-06 21:10:17,922 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:17,923 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:17,931 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:10:17,931 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:17,934 root INFO basepage:29 find_and_click
+2021-08-06 21:10:17,935 root INFO basepage:23 find
+2021-08-06 21:10:17,935 root INFO basepage:24 xpath
+2021-08-06 21:10:17,935 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:10:17,936 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:24,732 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 200 199
+2021-08-06 21:10:24,733 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:24,733 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/26700ab2-c81c-4289-9021-ef622605fdc3/click {"id": "26700ab2-c81c-4289-9021-ef622605fdc3", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:24,861 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/26700ab2-c81c-4289-9021-ef622605fdc3/click HTTP/1.1" 200 76
+2021-08-06 21:10:24,862 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:24,863 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:24,872 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:10:24,872 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:24,872 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:25,719 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 200 199
+2021-08-06 21:10:25,720 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:25,720 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:25,727 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:10:25,728 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:25,728 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/8ffa412e-bbc9-48a9-a127-a9cbf87ab905/click {"id": "8ffa412e-bbc9-48a9-a127-a9cbf87ab905", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:25,782 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/8ffa412e-bbc9-48a9-a127-a9cbf87ab905/click HTTP/1.1" 200 76
+2021-08-06 21:10:25,782 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:25,783 root INFO basepage:29 find_and_click
+2021-08-06 21:10:25,783 root INFO basepage:23 find
+2021-08-06 21:10:25,783 root INFO basepage:24 xpath
+2021-08-06 21:10:25,784 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 21:10:25,784 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:28,359 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 200 199
+2021-08-06 21:10:28,360 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:28,360 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/a0e5ec0f-ec4b-42e3-bd8e-75e7b414df7b/click {"id": "a0e5ec0f-ec4b-42e3-bd8e-75e7b414df7b", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:28,430 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/a0e5ec0f-ec4b-42e3-bd8e-75e7b414df7b/click HTTP/1.1" 200 76
+2021-08-06 21:10:28,431 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:28,434 root INFO basepage:23 find
+2021-08-06 21:10:28,435 root INFO basepage:24 xpath
+2021-08-06 21:10:28,435 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 21:10:28,435 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:30,216 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 200 199
+2021-08-06 21:10:30,216 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:30,217 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/1de9332c-5682-43e4-81db-738b8db46dec/value {"text": "\u5f20\u4e09", "value": ["\u5f20", "\u4e09"], "id": "1de9332c-5682-43e4-81db-738b8db46dec", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:30,435 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/1de9332c-5682-43e4-81db-738b8db46dec/value HTTP/1.1" 200 76
+2021-08-06 21:10:30,436 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:30,436 root INFO basepage:23 find
+2021-08-06 21:10:30,436 root INFO basepage:24 xpath
+2021-08-06 21:10:30,437 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 21:10:30,437 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:30,606 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 200 199
+2021-08-06 21:10:30,606 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:30,606 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/82ee0fe4-113a-4cfe-8736-e70bf7811412/value {"text": "15678541569", "value": ["1", "5", "6", "7", "8", "5", "4", "1", "5", "6", "9"], "id": "82ee0fe4-113a-4cfe-8736-e70bf7811412", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:30,709 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/82ee0fe4-113a-4cfe-8736-e70bf7811412/value HTTP/1.1" 200 76
+2021-08-06 21:10:30,710 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:30,710 root INFO basepage:23 find
+2021-08-06 21:10:30,710 root INFO basepage:24 xpath
+2021-08-06 21:10:30,711 root INFO basepage:25 //*[@text='保存']
+2021-08-06 21:10:30,711 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:30,794 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 200 199
+2021-08-06 21:10:30,797 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:30,797 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/68227a1b-30ee-49b0-b89c-9932235205f9/click {"id": "68227a1b-30ee-49b0-b89c-9932235205f9", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:30,909 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element/68227a1b-30ee-49b0-b89c-9932235205f9/click HTTP/1.1" 200 76
+2021-08-06 21:10:30,910 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:30,910 root INFO basepage:23 find
+2021-08-06 21:10:30,911 root INFO basepage:24 xpath
+2021-08-06 21:10:30,911 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 21:10:30,911 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:32,411 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 200 199
+2021-08-06 21:10:32,411 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:32,417 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back {"sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:32,556 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back HTTP/1.1" 200 76
+2021-08-06 21:10:32,557 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:32,557 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back {"sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:32,750 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back HTTP/1.1" 200 76
+2021-08-06 21:10:32,751 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:32,752 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back {"sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:33,956 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back HTTP/1.1" 200 76
+2021-08-06 21:10:33,957 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:33,965 root INFO basepage:29 find_and_click
+2021-08-06 21:10:33,965 root INFO basepage:23 find
+2021-08-06 21:10:33,965 root INFO basepage:24 xpath
+2021-08-06 21:10:33,965 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:10:33,966 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:39,009 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element HTTP/1.1" 500 164
+2021-08-06 21:10:39,009 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:39,471 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back {"sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:40,544 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back HTTP/1.1" 200 76
+2021-08-06 21:10:40,547 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:40,547 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back {"sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:41,674 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back HTTP/1.1" 200 76
+2021-08-06 21:10:41,674 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:41,675 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back {"sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:10:42,707 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/back HTTP/1.1" 200 76
+2021-08-06 21:10:42,707 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:10:42,714 root INFO basepage:29 find_and_click
+2021-08-06 21:10:42,714 root INFO basepage:23 find
+2021-08-06 21:10:42,715 root INFO basepage:24 xpath
+2021-08-06 21:10:42,715 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:10:42,715 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/48db8a36-8be1-47a9-82ac-e180ee2eea07/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "48db8a36-8be1-47a9-82ac-e180ee2eea07"}
+2021-08-06 21:15:52,448 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.address`.
+2021-08-06 21:15:52,466 faker.factory DEBUG factory:106 Provider `faker.providers.address` has been localized to `en_US`.
+2021-08-06 21:15:52,470 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.automotive`.
+2021-08-06 21:15:52,478 faker.factory DEBUG factory:106 Provider `faker.providers.automotive` has been localized to `en_US`.
+2021-08-06 21:15:52,480 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.bank`.
+2021-08-06 21:15:52,487 faker.factory DEBUG factory:101 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2021-08-06 21:15:52,490 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.barcode`.
+2021-08-06 21:15:52,492 faker.factory DEBUG factory:106 Provider `faker.providers.barcode` has been localized to `en_US`.
+2021-08-06 21:15:52,495 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.color`.
+2021-08-06 21:15:52,504 faker.factory DEBUG factory:106 Provider `faker.providers.color` has been localized to `en_US`.
+2021-08-06 21:15:52,507 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.company`.
+2021-08-06 21:15:52,517 faker.factory DEBUG factory:106 Provider `faker.providers.company` has been localized to `en_US`.
+2021-08-06 21:15:52,519 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2021-08-06 21:15:52,520 faker.factory DEBUG factory:106 Provider `faker.providers.credit_card` has been localized to `en_US`.
+2021-08-06 21:15:52,523 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.currency`.
+2021-08-06 21:15:52,529 faker.factory DEBUG factory:106 Provider `faker.providers.currency` has been localized to `en_US`.
+2021-08-06 21:15:52,531 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.date_time`.
+2021-08-06 21:15:52,540 faker.factory DEBUG factory:106 Provider `faker.providers.date_time` has been localized to `en_US`.
+2021-08-06 21:15:52,542 faker.factory DEBUG factory:113 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:15:52,543 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.geo`.
+2021-08-06 21:15:52,545 faker.factory DEBUG factory:106 Provider `faker.providers.geo` has been localized to `en_US`.
+2021-08-06 21:15:52,547 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.internet`.
+2021-08-06 21:15:52,559 faker.factory DEBUG factory:106 Provider `faker.providers.internet` has been localized to `en_US`.
+2021-08-06 21:15:52,561 faker.factory DEBUG factory:113 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:15:52,561 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.job`.
+2021-08-06 21:15:52,569 faker.factory DEBUG factory:106 Provider `faker.providers.job` has been localized to `en_US`.
+2021-08-06 21:15:52,571 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.lorem`.
+2021-08-06 21:15:52,576 faker.factory DEBUG factory:106 Provider `faker.providers.lorem` has been localized to `en_US`.
+2021-08-06 21:15:52,579 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.misc`.
+2021-08-06 21:15:52,582 faker.factory DEBUG factory:106 Provider `faker.providers.misc` has been localized to `en_US`.
+2021-08-06 21:15:52,584 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.person`.
+2021-08-06 21:15:52,602 faker.factory DEBUG factory:106 Provider `faker.providers.person` has been localized to `en_US`.
+2021-08-06 21:15:52,608 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2021-08-06 21:15:52,626 faker.factory DEBUG factory:106 Provider `faker.providers.phone_number` has been localized to `en_US`.
+2021-08-06 21:15:52,628 faker.factory DEBUG factory:113 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:15:52,628 faker.factory DEBUG factory:113 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:15:52,629 faker.factory DEBUG factory:94 Looking for locale `en_US` in provider `faker.providers.ssn`.
+2021-08-06 21:15:52,643 faker.factory DEBUG factory:106 Provider `faker.providers.ssn` has been localized to `en_US`.
+2021-08-06 21:15:52,645 faker.factory DEBUG factory:113 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2021-08-06 21:15:52,660 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:appPackage": "com.tencent.wework", "appium:appActivity": ".launch.LaunchSplashActivity", "appium:deviceName": "hogwarts", "appium:noReset": "True", "appium:ensureWebviewsHavePages": true, "appium:settings[waitForIdleTimeout]": 0, "appium:adbExecTimeout": 200000}]}, "desiredCapabilities": {"platformName": "Android", "appPackage": "com.tencent.wework", "appActivity": ".launch.LaunchSplashActivity", "deviceName": "hogwarts", "noReset": "True", "ensureWebviewsHavePages": true, "settings[waitForIdleTimeout]": 0, "adbExecTimeout": 200000}}
+2021-08-06 21:15:52,661 urllib3.connectionpool DEBUG connectionpool:227 Starting new HTTP connection (1): 127.0.0.1:4723
+2021-08-06 21:16:27,628 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 962
+2021-08-06 21:16:27,629 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:27,630 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:27,643 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:16:27,643 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:27,646 root INFO basepage:29 find_and_click
+2021-08-06 21:16:27,646 root INFO basepage:23 find
+2021-08-06 21:16:27,647 root INFO basepage:24 xpath
+2021-08-06 21:16:27,647 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:16:27,647 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:34,229 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:16:34,229 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:34,230 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/f35ce171-e62b-4b2e-9209-14157de317de/click {"id": "f35ce171-e62b-4b2e-9209-14157de317de", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:34,329 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/f35ce171-e62b-4b2e-9209-14157de317de/click HTTP/1.1" 200 76
+2021-08-06 21:16:34,330 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:34,331 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:34,340 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:16:34,341 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:34,341 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:35,423 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:16:35,423 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:35,424 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:35,433 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:16:35,434 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:35,434 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/7847bf44-a3c1-42aa-8c67-8a42a5d14b91/click {"id": "7847bf44-a3c1-42aa-8c67-8a42a5d14b91", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:35,615 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/7847bf44-a3c1-42aa-8c67-8a42a5d14b91/click HTTP/1.1" 200 76
+2021-08-06 21:16:35,616 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:35,616 root INFO basepage:29 find_and_click
+2021-08-06 21:16:35,616 root INFO basepage:23 find
+2021-08-06 21:16:35,616 root INFO basepage:24 xpath
+2021-08-06 21:16:35,617 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 21:16:35,617 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:37,614 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:16:37,615 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:37,615 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/192515b2-9ae6-42c2-937c-6d4bcb471d09/click {"id": "192515b2-9ae6-42c2-937c-6d4bcb471d09", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:37,650 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/192515b2-9ae6-42c2-937c-6d4bcb471d09/click HTTP/1.1" 200 76
+2021-08-06 21:16:37,650 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:37,652 root INFO basepage:23 find
+2021-08-06 21:16:37,653 root INFO basepage:24 xpath
+2021-08-06 21:16:37,653 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 21:16:37,653 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:39,199 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:16:39,200 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:39,200 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/47457363-d1cc-487f-8ecf-761406a7f4c2/value {"text": "\u5f20\u4e09", "value": ["\u5f20", "\u4e09"], "id": "47457363-d1cc-487f-8ecf-761406a7f4c2", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:39,294 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/47457363-d1cc-487f-8ecf-761406a7f4c2/value HTTP/1.1" 200 76
+2021-08-06 21:16:39,295 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:39,295 root INFO basepage:23 find
+2021-08-06 21:16:39,295 root INFO basepage:24 xpath
+2021-08-06 21:16:39,296 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 21:16:39,296 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:39,374 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:16:39,375 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:39,376 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/edd6f476-d213-49ba-8d0e-3f782a9afe42/value {"text": "15678541569", "value": ["1", "5", "6", "7", "8", "5", "4", "1", "5", "6", "9"], "id": "edd6f476-d213-49ba-8d0e-3f782a9afe42", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:39,423 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/edd6f476-d213-49ba-8d0e-3f782a9afe42/value HTTP/1.1" 200 76
+2021-08-06 21:16:39,423 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:39,423 root INFO basepage:23 find
+2021-08-06 21:16:39,423 root INFO basepage:24 xpath
+2021-08-06 21:16:39,424 root INFO basepage:25 //*[@text='保存']
+2021-08-06 21:16:39,424 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:39,509 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:16:39,510 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:39,510 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/d03d7aed-0e27-48fb-b20b-85584a049cc1/click {"id": "d03d7aed-0e27-48fb-b20b-85584a049cc1", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:39,561 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/d03d7aed-0e27-48fb-b20b-85584a049cc1/click HTTP/1.1" 200 76
+2021-08-06 21:16:39,562 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:39,562 root INFO basepage:23 find
+2021-08-06 21:16:39,562 root INFO basepage:24 xpath
+2021-08-06 21:16:39,563 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 21:16:39,563 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:41,214 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:16:41,215 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:41,218 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:41,369 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:16:41,370 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:41,371 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:41,554 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:16:41,554 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:41,555 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:42,761 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:16:42,762 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:42,766 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/appium/app/launch {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:16:58,069 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/appium/app/launch HTTP/1.1" 200 76
+2021-08-06 21:16:58,070 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:16:58,072 root INFO basepage:29 find_and_click
+2021-08-06 21:16:58,072 root INFO basepage:23 find
+2021-08-06 21:16:58,073 root INFO basepage:24 xpath
+2021-08-06 21:16:58,073 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:16:58,073 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:03,240 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:03,241 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:03,241 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/86f81fef-906d-4066-922e-812dc247efa2/click {"id": "86f81fef-906d-4066-922e-812dc247efa2", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:03,352 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/86f81fef-906d-4066-922e-812dc247efa2/click HTTP/1.1" 200 76
+2021-08-06 21:17:03,353 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:03,353 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:03,362 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:17:03,363 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:03,363 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:04,309 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:04,310 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:04,310 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:04,316 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:17:04,316 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:04,317 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/557f5f0e-4e02-496b-ad57-eff425518249/click {"id": "557f5f0e-4e02-496b-ad57-eff425518249", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:04,404 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/557f5f0e-4e02-496b-ad57-eff425518249/click HTTP/1.1" 200 76
+2021-08-06 21:17:04,404 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:04,404 root INFO basepage:29 find_and_click
+2021-08-06 21:17:04,405 root INFO basepage:23 find
+2021-08-06 21:17:04,405 root INFO basepage:24 xpath
+2021-08-06 21:17:04,405 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 21:17:04,405 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:06,793 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:06,794 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:06,794 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/f7c10140-1043-477e-9599-a976bfed7e16/click {"id": "f7c10140-1043-477e-9599-a976bfed7e16", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:06,831 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/f7c10140-1043-477e-9599-a976bfed7e16/click HTTP/1.1" 200 76
+2021-08-06 21:17:06,832 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:06,832 root INFO basepage:23 find
+2021-08-06 21:17:06,832 root INFO basepage:24 xpath
+2021-08-06 21:17:06,832 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 21:17:06,832 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:08,518 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:08,519 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:08,520 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/197dc414-1a62-42ee-9643-0910433742e7/value {"text": "\u674e\u56db", "value": ["\u674e", "\u56db"], "id": "197dc414-1a62-42ee-9643-0910433742e7", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:08,585 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/197dc414-1a62-42ee-9643-0910433742e7/value HTTP/1.1" 200 76
+2021-08-06 21:17:08,585 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:08,586 root INFO basepage:23 find
+2021-08-06 21:17:08,586 root INFO basepage:24 xpath
+2021-08-06 21:17:08,586 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 21:17:08,587 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:08,707 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:08,708 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:08,709 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/ee34148d-2914-4c6a-aeaf-5b80cb2e0a00/value {"text": "18396587412", "value": ["1", "8", "3", "9", "6", "5", "8", "7", "4", "1", "2"], "id": "ee34148d-2914-4c6a-aeaf-5b80cb2e0a00", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:08,784 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/ee34148d-2914-4c6a-aeaf-5b80cb2e0a00/value HTTP/1.1" 200 76
+2021-08-06 21:17:08,785 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:08,785 root INFO basepage:23 find
+2021-08-06 21:17:08,785 root INFO basepage:24 xpath
+2021-08-06 21:17:08,786 root INFO basepage:25 //*[@text='保存']
+2021-08-06 21:17:08,786 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:08,869 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:08,870 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:08,870 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/264c615b-49e6-48fc-a558-bd6ed0a4ffb5/click {"id": "264c615b-49e6-48fc-a558-bd6ed0a4ffb5", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:08,911 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/264c615b-49e6-48fc-a558-bd6ed0a4ffb5/click HTTP/1.1" 200 76
+2021-08-06 21:17:08,912 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:08,912 root INFO basepage:23 find
+2021-08-06 21:17:08,913 root INFO basepage:24 xpath
+2021-08-06 21:17:08,913 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 21:17:08,913 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:10,541 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:10,541 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:10,544 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:10,676 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:17:10,677 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:10,677 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:10,909 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:17:10,910 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:10,910 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:12,077 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:17:12,078 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:12,082 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/appium/app/launch {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:27,221 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/appium/app/launch HTTP/1.1" 200 76
+2021-08-06 21:17:27,222 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:27,224 root INFO basepage:29 find_and_click
+2021-08-06 21:17:27,224 root INFO basepage:23 find
+2021-08-06 21:17:27,224 root INFO basepage:24 xpath
+2021-08-06 21:17:27,224 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:17:27,225 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:33,208 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:33,208 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:33,209 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/731ea99e-aa81-4fa4-9581-4e4aa95ad147/click {"id": "731ea99e-aa81-4fa4-9581-4e4aa95ad147", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:33,288 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/731ea99e-aa81-4fa4-9581-4e4aa95ad147/click HTTP/1.1" 200 76
+2021-08-06 21:17:33,288 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:33,289 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:33,296 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:17:33,297 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:33,297 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:34,236 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:34,237 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:34,237 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:34,245 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:17:34,246 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:34,246 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/e1e79408-5187-4a16-8351-a6d11d7460af/click {"id": "e1e79408-5187-4a16-8351-a6d11d7460af", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:34,298 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/e1e79408-5187-4a16-8351-a6d11d7460af/click HTTP/1.1" 200 76
+2021-08-06 21:17:34,299 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:34,299 root INFO basepage:29 find_and_click
+2021-08-06 21:17:34,300 root INFO basepage:23 find
+2021-08-06 21:17:34,300 root INFO basepage:24 xpath
+2021-08-06 21:17:34,300 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 21:17:34,301 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:36,521 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:36,522 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:36,522 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/b68e1a14-d860-4181-b5e7-a6dbff67fdb3/click {"id": "b68e1a14-d860-4181-b5e7-a6dbff67fdb3", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:36,598 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/b68e1a14-d860-4181-b5e7-a6dbff67fdb3/click HTTP/1.1" 200 76
+2021-08-06 21:17:36,599 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:36,599 root INFO basepage:23 find
+2021-08-06 21:17:36,600 root INFO basepage:24 xpath
+2021-08-06 21:17:36,600 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 21:17:36,600 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:37,936 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:37,937 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:37,937 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/7e33d90f-0dc3-4254-a110-a917b2e3b9fa/value {"text": "\u738b\u4e8c", "value": ["\u738b", "\u4e8c"], "id": "7e33d90f-0dc3-4254-a110-a917b2e3b9fa", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:38,035 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/7e33d90f-0dc3-4254-a110-a917b2e3b9fa/value HTTP/1.1" 200 76
+2021-08-06 21:17:38,036 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:38,037 root INFO basepage:23 find
+2021-08-06 21:17:38,037 root INFO basepage:24 xpath
+2021-08-06 21:17:38,037 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 21:17:38,038 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:38,148 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:38,149 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:38,150 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/0d45b038-1fa4-4a19-ad9e-ecb6bb590b39/value {"text": "13625368974", "value": ["1", "3", "6", "2", "5", "3", "6", "8", "9", "7", "4"], "id": "0d45b038-1fa4-4a19-ad9e-ecb6bb590b39", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:38,212 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/0d45b038-1fa4-4a19-ad9e-ecb6bb590b39/value HTTP/1.1" 200 76
+2021-08-06 21:17:38,213 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:38,214 root INFO basepage:23 find
+2021-08-06 21:17:38,214 root INFO basepage:24 xpath
+2021-08-06 21:17:38,214 root INFO basepage:25 //*[@text='保存']
+2021-08-06 21:17:38,214 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:38,343 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:38,344 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:38,344 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/2fe3abe6-cc27-4af7-9a65-0be34e1d44b3/click {"id": "2fe3abe6-cc27-4af7-9a65-0be34e1d44b3", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:38,451 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/2fe3abe6-cc27-4af7-9a65-0be34e1d44b3/click HTTP/1.1" 200 76
+2021-08-06 21:17:38,452 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:38,452 root INFO basepage:23 find
+2021-08-06 21:17:38,453 root INFO basepage:24 xpath
+2021-08-06 21:17:38,453 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 21:17:38,453 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:39,585 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:17:39,585 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:39,588 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:39,911 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:17:39,912 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:39,912 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:40,117 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:17:40,117 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:40,118 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:40,210 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:17:40,211 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:40,216 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/appium/app/launch {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:17:55,810 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/appium/app/launch HTTP/1.1" 200 76
+2021-08-06 21:17:55,811 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:17:55,813 root INFO basepage:29 find_and_click
+2021-08-06 21:17:55,814 root INFO basepage:23 find
+2021-08-06 21:17:55,814 root INFO basepage:24 xpath
+2021-08-06 21:17:55,814 root INFO basepage:25 //*[@text='通讯录']
+2021-08-06 21:17:55,814 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u901a\u8baf\u5f55']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:02,532 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:18:02,533 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:02,533 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/5e7d3ef4-35ee-407d-990f-fc4a1f0bf5e8/click {"id": "5e7d3ef4-35ee-407d-990f-fc4a1f0bf5e8", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:02,635 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/5e7d3ef4-35ee-407d-990f-fc4a1f0bf5e8/click HTTP/1.1" 200 76
+2021-08-06 21:18:02,637 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:02,637 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 1000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:02,646 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:18:02,647 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:02,647 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u5458']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:03,541 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:18:03,541 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:03,542 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait {"ms": 5000.0, "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:03,550 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/timeouts/implicit_wait HTTP/1.1" 200 76
+2021-08-06 21:18:03,551 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:03,551 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/f5445eaf-c273-416a-8bd2-f8e0576f9c12/click {"id": "f5445eaf-c273-416a-8bd2-f8e0576f9c12", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:03,604 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/f5445eaf-c273-416a-8bd2-f8e0576f9c12/click HTTP/1.1" 200 76
+2021-08-06 21:18:03,605 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:03,605 root INFO basepage:29 find_and_click
+2021-08-06 21:18:03,605 root INFO basepage:23 find
+2021-08-06 21:18:03,605 root INFO basepage:24 xpath
+2021-08-06 21:18:03,606 root INFO basepage:25 //*[@text='手动输入添加']
+2021-08-06 21:18:03,606 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u624b\u52a8\u8f93\u5165\u6dfb\u52a0']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:05,654 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:18:05,655 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:05,655 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/8ed7cfdd-bf0f-4435-8560-56a996f06ab8/click {"id": "8ed7cfdd-bf0f-4435-8560-56a996f06ab8", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:05,691 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/8ed7cfdd-bf0f-4435-8560-56a996f06ab8/click HTTP/1.1" 200 76
+2021-08-06 21:18:05,691 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:05,692 root INFO basepage:23 find
+2021-08-06 21:18:05,692 root INFO basepage:24 xpath
+2021-08-06 21:18:05,692 root INFO basepage:25 //*[contains(@text, '姓名')]/../*[@text='必填']
+2021-08-06 21:18:05,693 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u59d3\u540d')]/../*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:07,087 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:18:07,088 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:07,088 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/1482b170-bae6-4198-b0d0-e4904a5df3ca/value {"text": "\u9648\u67d0", "value": ["\u9648", "\u67d0"], "id": "1482b170-bae6-4198-b0d0-e4904a5df3ca", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:07,207 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/1482b170-bae6-4198-b0d0-e4904a5df3ca/value HTTP/1.1" 200 76
+2021-08-06 21:18:07,209 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:07,209 root INFO basepage:23 find
+2021-08-06 21:18:07,209 root INFO basepage:24 xpath
+2021-08-06 21:18:07,210 root INFO basepage:25 //*[contains(@text, '手机')]/..//*[@text='必填']
+2021-08-06 21:18:07,210 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[contains(@text, '\u624b\u673a')]/..//*[@text='\u5fc5\u586b']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:07,276 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:18:07,276 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:07,277 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/2562168f-cb04-49d7-9af7-4eb4a16d6414/value {"text": "13158463214", "value": ["1", "3", "1", "5", "8", "4", "6", "3", "2", "1", "4"], "id": "2562168f-cb04-49d7-9af7-4eb4a16d6414", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:07,327 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/2562168f-cb04-49d7-9af7-4eb4a16d6414/value HTTP/1.1" 200 76
+2021-08-06 21:18:07,328 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:07,328 root INFO basepage:23 find
+2021-08-06 21:18:07,329 root INFO basepage:24 xpath
+2021-08-06 21:18:07,329 root INFO basepage:25 //*[@text='保存']
+2021-08-06 21:18:07,329 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u4fdd\u5b58']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:07,400 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:18:07,400 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:07,400 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/b66dc481-035d-4d98-a99b-c36f59e13688/click {"id": "b66dc481-035d-4d98-a99b-c36f59e13688", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:07,455 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element/b66dc481-035d-4d98-a99b-c36f59e13688/click HTTP/1.1" 200 76
+2021-08-06 21:18:07,456 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:07,456 root INFO basepage:23 find
+2021-08-06 21:18:07,456 root INFO basepage:24 xpath
+2021-08-06 21:18:07,456 root INFO basepage:25 //*[@text='添加成功']
+2021-08-06 21:18:07,456 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element {"using": "xpath", "value": "//*[@text='\u6dfb\u52a0\u6210\u529f']", "sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:09,267 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/element HTTP/1.1" 200 199
+2021-08-06 21:18:09,268 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:09,270 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:09,443 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:18:09,444 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:09,444 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:09,518 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:18:09,519 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:09,519 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
+2021-08-06 21:18:09,736 urllib3.connectionpool DEBUG connectionpool:452 http://127.0.0.1:4723 "POST /wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/back HTTP/1.1" 200 76
+2021-08-06 21:18:09,737 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2021-08-06 21:18:09,741 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:4723/wd/hub/session/89478a55-23a9-45cc-bc78-a0c2ccd60a29/appium/app/launch {"sessionId": "89478a55-23a9-45cc-bc78-a0c2ccd60a29"}
